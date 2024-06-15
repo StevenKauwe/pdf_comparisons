@@ -1,0 +1,24 @@
+### Summary of Sunrise Section
+
+**ARTICLE 11: NON-DISCRIMINATION**
+
+- **Non-Discrimination Clause**: The Hospital and the Union agree not to discriminate against any employee based on race, color, religion, national origin, age, sex, sexual orientation, gender identity, genetic information, protected veteran status, disability, union activity, or union membership, as required by local, state, or federal law.
+- **Grievance Procedure**: Alleged violations are subject to the grievance procedure in Article 10. Grievances will not go to arbitration unless:
+  1. The claim has not been previously asserted in federal or state court, or before the NLRB.
+  2. The grievant signs an agreement that arbitration will be the exclusive forum and waives the right to pursue claims in court.
+- **NLRB Charges**: Employees can still file charges with the NLRB.
+
+### Comparison with Mountain View and Southern Hills
+
+| Section | Sunrise | Mountain View | Southern Hills |
+|---------|---------|---------------|----------------|
+| **Non-Discrimination Clause** | The Hospital and the Union agree that neither party shall discriminate against any employee covered by this Agreement on account of race, color, religion, national origin, age, sex, sexual orientation, gender identity, genetic information, protected veteran status, disability, union activity, or union membership, and as required by local, state, or federal law. | The Hospital and the Union agree that neither party shall discriminate against any employee covered by this Agreement on account of race, color, religion, national origin, age, sex, sexual orientation, gender identity, genetic information, protected veteran status, disability, union activity, or union membership, and as required by local, state, or federal law. | The Hospital and the Union agree that neither party shall discriminate against any employee covered by this Agreement on account of race, color, religion, national origin, age, sex, sexual orientation, gender identity, genetic information, protected veteran status, disability, union activity, or union membership, and as required by local, state, or federal law. |
+| **Grievance Procedure** | Alleged violations of the foregoing shall be subject to the grievance procedure set forth in Article 10 above, but no grievance will be referred to arbitration unless: (1) the claim has not previously been asserted in federal or state court, or before the NLRB; and (2) except for claims made pursuant to the National Labor Relations Act, the grievant signs an agreement that arbitration will be the exclusive forum for such claim and waives his/her right to pursue such claims in court. | Alleged violations of the foregoing shall be subject to the grievance procedure set forth in Article 10 above, but no grievance will be referred to arbitration unless: (1) the claim has not previously been asserted in federal or state court, or before the NLRB; and (2) except for claims made pursuant to the National Labor Relations Act, the grievant signs an agreement that arbitration will be the exclusive forum for such claim and waives his/her right to pursue such claims in court. | Alleged violations of the foregoing shall be subject to the grievance procedure set forth in Article 10, but no grievance will be referred to arbitration unless: (1) the claim has not previously been asserted in federal or state court, or before the NLRB; and (2) except for claims made pursuant to the National Labor Relations Act, the grievant signs an agreement that arbitration will be the exclusive forum for such claim and waives his/her right to pursue such claims in court. |
+| **NLRB Charges** | Nothing herein shall prevent an employee from electing to file a charge with the NLRB. | Nothing herein shall prevent an employee from electing to file a charge with the NLRB. | Nothing herein shall prevent an employee from electing to file a charge with the NLRB. |
+
+### Differences and Recommendations
+
+- **Language Consistency**: The language in the non-discrimination clause and grievance procedure is consistent across Sunrise, Mountain View, and Southern Hills.
+- **Formatting**: The only minor difference is the formatting in the Southern Hills contract where "Article 10" is not followed by "above." This is a negligible difference and does not affect the substance of the agreement.
+
+**Recommendation**: Since there are no substantive differences between the sections, Sunrise does not need to adopt any changes from Mountain View or Southern Hills. The current language in the Sunrise contract is already aligned with the other two contracts.
