@@ -1,0 +1,386 @@
+
+# Sunrise
+APPENDIX D 
+
+COST CENTER 
+Department / Cost Center Listing 
+Cost Center Name 
+Cost Center Number 
+Nursing Float 
+602 
+Adult Oncology Svcs (AOS) 
+611 
+Specialty Surgical 
+613 
+BSU 
+614 
+TCS 
+615 
+MPU 
+617 
+MCU 
+618 
+MOU 
+619 
+Neuro Stroke Services (NSS) 
+620 
+MSU 
+621 
+Outpatient OBS Unit (OOU) 
+622 
+Rapid Response (CCRT) 
+623 
+Discharge Center 
+625 
+CMU 
+630 
+CVICU 
+636 
+Pediatrics 
+640 
+Pediatric ICU (PICU) 
+645 
+Peds CICU 
+646 
+Burn ICU 
+647 
+TSICU 
+648 
+MICU 
+650 
+CCU 
+652 
+NSICU 
+655 
+Maternal Baby Unit (MBU) 
+660 
+Neonatal ICU 
+675 
+Nursing Education 
+687 
+Rehabilitation 
+693 
+Sitter 
+697 
+Surgery 
+701 
+ 
+104 
+Department / Cost Center Listing 
+Cost Center Name 
+Cost Center Number 
+CVOR 
+703 
+Recovery (PACU) 
+704 
+Labor and Delivery 
+708 
+Pharmacy 
+712 
+Sterile Processing 
+719 
+Breast Diagnostic Unit 
+725 
+Cat Scan 
+726 
+Rad Special Procedures 
+727 
+Diagnostic Radiology 
+728 
+Radiology Ultrasound 
+729 
+Endoscopy 
+733 
+MRI 
+734 
+Ostomy Services 
+735 
+I P Laboratory 
+736 
+Reference Lab 
+737 
+Peds Outpatient Svs. 
+743 
+EKG 
+744 
+Telemetry 
+745 
+Cardiac Cath Lab 
+746 
+EEG 
+748 
+Cardiac Ultrasound 
+750 
+Respiratory Therapy 
+754 
+Wound Care Clinic 
+755 
+Blood Bank 
+758 
+Physical Therapy 
+762 
+Nuclear Medicine 
+763 
+Occupational Therapy 
+766 
+Diagnostic Center Radiology 
+772 
+Infusion Therapy 
+775 
+Behavioral Health Obs (BHU) 
+776 
+Rehabilitation Therapy 
+777 
+Emergency Department 
+780 
+Pediatric ER 
+781 
+ 
+105 
+Department / Cost Center Listing 
+Cost Center Name 
+Cost Center Number 
+Trauma Services 
+782 
+Day Surgery 
+785 
+Food & Nutrition 
+800 
+Housekeeping 
+810 
+EVS-OR 
+811 
+Laundry 
+820 
+Patient Transport 
+825 
+PNTT 
+826 
+Medical Records 
+840 
+Medical Staff 
+843 
+ED Concierge 
+871 
+Phlebotomy 
+899 
+Admitting 
+906 
+PBX 
+910 
+Mailroom Couriers 
+911 
+Purchasing 
+912 
+Center for Health Families 
+914 
+OR Sunrise Supply Chain 
+930 
+Case Management 
+933 
+Pre-Admit 
+941 
+First Assist CVOR 
+968 
+
+
+
+ 
+106 
+
+---
+# Mountain View
+APPENDIX B 
+
+DEPARTMENT COST CENTER 
+
+Cost Center Number 
+Department/Unit Name 
+602 
+Float Pool 
+610 
+5 North 
+611 
+4 North 
+612 
+5 Center 
+613 
+3 South 
+615 
+4 South 
+618 
+4 Center 
+632 
+5 South Oncology 
+675 
+NICU 
+693 
+Rehab 
+697 
+Sitter Hours 
+700 
+Surgery Scheduling 
+701 
+Surgery 
+703 
+CVOR 
+704 
+PACU 
+708 
+Labor Delivery 
+711 
+Cath Lab Recovery 
+712 
+Pharmacy 
+718 
+M & S Supplies 
+719 
+Sterile Processing 
+726 
+CT Scan 
+727 
+Special Procedures 
+728 
+Medical Imagining 
+729 
+Ultrasound 
+733 
+Endoscopy 
+734 
+MRI 
+736 
+Laboratory 
+744 
+ECG 
+745 
+Telemetry 
+746 
+Cardiac Cath Lab 
+ 
+61 
+
+Cost Center Number 
+Department/Unit Name 
+748 
+EEG 
+750 
+Cardio Ultrasound 
+754 
+Respiratory Therapy 
+755 
+Wound Care 
+762 
+Physical Therapy 
+763 
+Nuclear Med 
+770 
+Rehab Therapy 
+772 
+Red Rock MRI 
+774 
+Red Rock Mammography 
+775 
+Red Rock Cat Scan 
+776 
+Red Rock Special Procedures 
+777 
+Red Rock Medical Imaging 
+778 
+Red Rock Ultrasound 
+779 
+ED Psych 
+780 
+Emergency Room 
+786 
+Outpatient Recovery PPCU 
+793 
+Aliante CT 
+794 
+Aliante Ultrasound 
+825 
+Transport 
+906 
+Admitting 
+ 
+62 
+
+
+---
+# Southern Hills
+APPENDIX B 
+
+DEPARTMENT UNIT LIST 
+Department/Unit Listing 
+Cost Center  
+Department/Unit 
+610 
+Med/Surg  
+611 
+Oncology 
+630 
+IMC 
+639 
+Ortho/Neuro  
+650 
+ICU 
+659 
+Geri-Psych 
+660 
+Women’s Services 
+675 
+NICU  
+697 
+Sitters 
+701 
+Surgery & Operating  Room  
+704 
+PACU Recovery Room 
+707 
+Labor and Delivery  
+727 
+Special Procedures 
+728 
+Radiology 
+733 
+Endoscopy 
+736 
+Laboratory  
+745 
+Telemetry 
+746 
+Cath Lab  
+757 
+Sterile Processing  
+779 
+ED Psych Holds 
+780 
+Emergency Room  
+786 
+Same Day Surgery 
+790 
+HBED 
+791 
+HBED Lab 
+795 
+HBED EVS 
+797 
+HBED PAS 
+800 
+Dietary 
+810 
+EVS  
+820 
+Linen  
+825 
+Patient Transport  
+840 
+Health Info Management 
+905 
+Admitting 
+941 
+PAT 
+
+ 
+66 
+
+
